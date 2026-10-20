@@ -1,0 +1,39 @@
+[33mcommit 770ad5952dfb56841786baf68113931f2490004b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: zoraan4000-dotcom <zoraan4000@gmail.com>
+Date:   Tue Oct 20 09:47:32 2026 -0400
+
+    Updated PowerShell scripts
+
+[1mdiff --git a/Script1.ps1 b/Script1.ps1[m
+[1mindex 93856ab..4b489de 100644[m
+[1m--- a/Script1.ps1[m
+[1m+++ b/Script1.ps1[m
+[36m@@ -1,2 +1,3 @@[m
+ Write-Host "This is PowerShell Script 1"[m
+[31m-Get-Date[m
+\ No newline at end of file[m
+[32m+[m[32mGet-Date[m
+[32m+[m[32mWrite-Host "Script 1 has been updated"[m
+\ No newline at end of file[m
+[1mdiff --git a/Script2.ps1 b/Script2.ps1[m
+[1mindex e68fcd6..0363a68 100644[m
+[1m--- a/Script2.ps1[m
+[1m+++ b/Script2.ps1[m
+[36m@@ -1,2 +1,3 @@[m
+ Write-Host "This is PowerShell Script 2"[m
+[31m-Get-Process[m
+\ No newline at end of file[m
+[32m+[m[32mGet-Process[m
+[32m+[m[32mWrite-Host "Script 2 has been updated"[m
+\ No newline at end of file[m
+[1mdiff --git a/Script3.ps1 b/Script3.ps1[m
+[1mindex b8e94e0..d7c5677 100644[m
+[1m--- a/Script3.ps1[m
+[1m+++ b/Script3.ps1[m
+[36m@@ -1,2 +1,3 @@[m
+ Write-Host "This is PowerShell Script 3"[m
+[31m-Get-Service[m
+\ No newline at end of file[m
+[32m+[m[32mGet-Service[m
+[32m+[m[32mWrite-Host "Script 3 has been updated"[m
+\ No newline at end of file[m
